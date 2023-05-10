@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Home Jersey",
+      "description": "Cool Baseball Home Jersey",
+      "image": "https://i.vgy.me/f7iBag.jpg",
+      "price": 15999,
+      "currency": "usd",
+      "paymentType": "payment"
+    },
+    {
+      "id": 2,
+      "name": "Away Jersey",
+      "description": "Cool Baseball Away Jersey",
+      "image": "https://i.vgy.me/EdPX9r.jpg",
+      "price": 15999,
+      "currency": "usd",
+      "paymentType": "payment"
+    }
+  ]
+}
